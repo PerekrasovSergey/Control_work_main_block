@@ -1,0 +1,15 @@
+C:\Users\spere\Documents\MyPythonProjects\Program language\Control_main\Control_work_main_block\bin\Debug\net8.0\Control_work_main_block.exe
+C:\Users\spere\Documents\MyPythonProjects\Program language\Control_main\Control_work_main_block\bin\Debug\net8.0\Control_work_main_block.deps.json
+C:\Users\spere\Documents\MyPythonProjects\Program language\Control_main\Control_work_main_block\bin\Debug\net8.0\Control_work_main_block.runtimeconfig.json
+C:\Users\spere\Documents\MyPythonProjects\Program language\Control_main\Control_work_main_block\bin\Debug\net8.0\Control_work_main_block.dll
+C:\Users\spere\Documents\MyPythonProjects\Program language\Control_main\Control_work_main_block\bin\Debug\net8.0\Control_work_main_block.pdb
+C:\Users\spere\Documents\MyPythonProjects\Program language\Control_main\Control_work_main_block\obj\Debug\net8.0\Control_work_main_block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spere\Documents\MyPythonProjects\Program language\Control_main\Control_work_main_block\obj\Debug\net8.0\Control_work_main_block.AssemblyInfoInputs.cache
+C:\Users\spere\Documents\MyPythonProjects\Program language\Control_main\Control_work_main_block\obj\Debug\net8.0\Control_work_main_block.AssemblyInfo.cs
+C:\Users\spere\Documents\MyPythonProjects\Program language\Control_main\Control_work_main_block\obj\Debug\net8.0\Control_work_main_block.csproj.CoreCompileInputs.cache
+C:\Users\spere\Documents\MyPythonProjects\Program language\Control_main\Control_work_main_block\obj\Debug\net8.0\Control_work_main_block.sourcelink.json
+C:\Users\spere\Documents\MyPythonProjects\Program language\Control_main\Control_work_main_block\obj\Debug\net8.0\Control_work_main_block.dll
+C:\Users\spere\Documents\MyPythonProjects\Program language\Control_main\Control_work_main_block\obj\Debug\net8.0\refint\Control_work_main_block.dll
+C:\Users\spere\Documents\MyPythonProjects\Program language\Control_main\Control_work_main_block\obj\Debug\net8.0\Control_work_main_block.pdb
+C:\Users\spere\Documents\MyPythonProjects\Program language\Control_main\Control_work_main_block\obj\Debug\net8.0\Control_work_main_block.genruntimeconfig.cache
+C:\Users\spere\Documents\MyPythonProjects\Program language\Control_main\Control_work_main_block\obj\Debug\net8.0\ref\Control_work_main_block.dll
